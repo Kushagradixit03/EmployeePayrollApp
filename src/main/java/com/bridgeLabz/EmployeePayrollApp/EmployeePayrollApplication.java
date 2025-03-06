@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EmployeePayrollApplication {
 
 	public static void main(String[] args) {
+//		<==================================UC1========================>
 		SpringApplication.run(EmployeePayrollApplication.class, args);
 	}
 
