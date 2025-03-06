@@ -2,7 +2,7 @@ package com.bridgeLabz.EmployeePayrollApp.DTO;
 
 
 public class EmployeeDTO {
-
+//<======================================UC3==================================>
     String name;
     Long salary;
 
